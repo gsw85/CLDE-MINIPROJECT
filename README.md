@@ -107,12 +107,12 @@ The real-time sensors data dashboard presents three different sensor readings an
 The line chart displayed the sensor reading against the time. Skymind logo also shows at the top of the dashboard and real-time clock and date that are up-to-date time by time.
 
 <p align="center">
-  <img width="500" height="340" src="https://github.com/gsw85/CDLE-Mini-Project/raw/master/Picture/Step-by-step (1).png">
+  <img width="500" height="340" src="https://github.com/gsw85/CLDE-MINIPROJECT/blob/main/Picture/Step-by-step%20(1).png">
 </p>
 
 ### Real Time Object Detection
 In the object detection dashboard, it is actually from p5.js. It works exactly like p5.js since the codes are similar. It uses an iframe in order to display the object detection webpage and run the object detection model.
 
 <p align="center">
-  <img width="500" height="340" src="https://github.com/gsw85/CDLE-Mini-Project/raw/master/Picture/Step-by-step (5).png">
+  <img width="500" height="340" src="https://github.com/gsw85/CLDE-MINIPROJECT/blob/main/Picture/Step-by-step%20(5).png">
 </p>
