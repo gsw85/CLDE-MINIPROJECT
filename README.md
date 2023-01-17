@@ -3,7 +3,7 @@ The project used Raspberry Pi as a central control unit coupled with three diffe
 <br>
 <br>
 <p align="center">
-  <img width="500" height="340" src="https://github.com/fikrimusa/CDLE-Mini-Project/raw/master/Picture/Project_description.png">
+  <img width="500" height="340" src="https://github.com/gsw85/CLDE-MINIPROJECT/blob/main/Picture/Project_description.png">
 </p>
 
 ## Walkthrough of steps to install and run the project
